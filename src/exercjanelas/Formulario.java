@@ -10,5 +10,9 @@ package exercjanelas;
  * @author 180701103
  */
 public class Formulario {
+<<<<<<< HEAD
     // Comentário para realização do exercício.  Passo 24
+=======
+    // Comentário para realização do exercício porém na branch NovaInterface
+>>>>>>> NovaInterface
 }
